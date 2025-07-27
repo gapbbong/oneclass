@@ -1,1 +1,5 @@
 photos/
+<<<<<<< HEAD
+=======
+echo "student25.zip" >> .gitignorestudent25.zip
+>>>>>>> 3d98ccdab0e470e5b6fd6ab1e346cfe6bf49ae7e
